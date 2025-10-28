@@ -21,7 +21,7 @@ const _layout = () => {
                     <Image
                         source={icon}
                         tintColor="#151312"
-                        className="size-5" />
+                        className="size-4" />
                     <Text className="text-secondary text-base font-semibold ml-2">{title}</Text>
                 </ImageBackground>
             )
